@@ -1,3 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
 header {
   background-color: #333;
   color: #fff;
@@ -19,4 +25,63 @@ nav a {
   color: #fff;
 }
 
+section {
+  background-color: #fff;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
 
+h2 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.header-gabarito {
+  font-family: Gabarito;
+}
+
+p {
+  margin: 10px 0;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+}
+
+.center-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-wrap {
+  overflow: auto;
+}
+
+.image-container{
+  float: right;
+  margin-right: 10px;
+  max-width: 100%;
+  max-height: auto;
+}
+
+iframe {
+  max-width: 100%;
+  width: 560px;
+  display: block;
+  margin: 0 auto;
+}
