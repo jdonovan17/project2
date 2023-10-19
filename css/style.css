@@ -11,6 +11,11 @@ header {
   text-align: center;
 }
 
+nav a {
+  text-decoration: none;
+  color: salmon;
+}
+
 nav ul {
   list-style: none;
 }
@@ -18,11 +23,6 @@ nav ul {
 nav li {
   display: inline;
   margin: 0 20px;
-}
-
-nav a {
-  text-decoration: none;
-  color: salmon;
 }
 
 section {
@@ -65,7 +65,7 @@ img {
 
 iframe {
   max-width: 100%;
-  width: 560px;
+  width: 640px;
   display: block;
   margin: 0 auto;
 }
