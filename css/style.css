@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-color: lightsteelblue;
+  background-color: grey;
   color: salmon;
   padding: 10px;
   text-align: center;
@@ -26,7 +26,7 @@ nav a {
 }
 
 section {
-  background-color: lightsteelblue;
+  background-color: grey;
   margin: 20px;
   padding: 20px;
   border-radius: 5px;
