@@ -63,10 +63,6 @@ img {
   align-items: center;
 }
 
-.image-wrap {
-  overflow: auto;
-}
-
 iframe {
   max-width: 100%;
   width: 560px;
