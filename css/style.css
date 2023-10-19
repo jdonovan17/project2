@@ -68,7 +68,7 @@ img {
 }
 
 .image-container{
-  float: right;
+  float: center;
   margin-right: 10px;
   max-width: 100%;
   max-height: auto;
