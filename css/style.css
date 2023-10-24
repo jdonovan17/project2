@@ -50,6 +50,10 @@ li {
   margin: 5px 0;
 }
 
+li a:hover {
+  background-color: gray
+}
+
 img {
   max-width: 100%;
   height: auto;
