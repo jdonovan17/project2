@@ -25,6 +25,13 @@ nav li {
   margin: 0 20px;
 }
 
+nav ul li a {
+  display: block;
+  padding: 15px 10px;
+  text-decoration: none;
+  color: white;
+}
+
 nav ul li a:hover {
   background-color:gray
 }
