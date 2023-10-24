@@ -16,10 +16,6 @@ nav a {
   color: salmon;
 }
 
-nav ul li a:hover {
-  background-color:gray
-}
-
 nav ul {
   list-style: none;
 }
@@ -27,6 +23,10 @@ nav ul {
 nav li {
   display: inline;
   margin: 0 20px;
+}
+
+nav ul li a:hover {
+  background-color:gray
 }
 
 section {
