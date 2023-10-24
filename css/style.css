@@ -16,6 +16,10 @@ nav a {
   color: salmon;
 }
 
+nav a:hover {
+  background-color:gray
+}
+
 nav ul {
   list-style: none;
 }
@@ -48,10 +52,6 @@ ul {
 
 li {
   margin: 5px 0;
-}
-
-li a:hover {
-  background-color: gray
 }
 
 img {
