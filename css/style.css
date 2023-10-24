@@ -16,7 +16,7 @@ nav a {
   color: salmon;
 }
 
-nav a:hover {
+nav ul li a:hover {
   background-color:gray
 }
 
