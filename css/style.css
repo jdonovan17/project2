@@ -32,7 +32,8 @@ section {
   border-radius: 5px;
 }
 
-h2 {
+h1,h2,h3 {
+  float: none;
   font-size: 26px;
   margin-top: 20px;
 }
