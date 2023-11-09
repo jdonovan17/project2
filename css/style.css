@@ -14,12 +14,11 @@ ol {
 body {
   font-family: "Lucida Console", monospace;
   background-color: lightsteelblue;
-  color: salmon;
+  color: midnightblue;
 }
 
 header {
   background-color: grey;
-  color: midnightblue;
   padding: 10px;
   text-align: center;
 }
