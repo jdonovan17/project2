@@ -52,15 +52,8 @@ section {
 }
 
 h1, h2, h3, h4 {
-  color: #3498db;
+  color: #191970;
 }
-
-h2 {
-  color: #e74c3c; 
-}
-
-h3 {
-  color: #27ae60; 
 
 ul {
   margin-bottom: 10px;
