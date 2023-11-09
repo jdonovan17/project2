@@ -13,15 +13,15 @@ ol {
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #grey;
+  background-color: #778899;
   color: #333;
   line-height: 1.6;
   margin: 0;
 }
 
 header {
-  background-color: #midnightblue;
-  color: #fff;
+  background-color: #A9A9A9;
+  color: #191970;
   text-align: center;
   padding: 20px;
 }
