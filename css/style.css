@@ -48,11 +48,19 @@ section {
   padding: 20px;
   border-radius: 10px;
   margin: 20px;
+  text-align: center; 
 }
 
 h1, h2, h3, h4 {
   color: #3498db;
 }
+
+h2 {
+  color: #e74c3c; 
+}
+
+h3 {
+  color: #27ae60; 
 
 ul {
   margin-bottom: 10px;
@@ -64,5 +72,10 @@ li {
 
 p {
   margin-bottom: 10px;
+}
+
+img {
+  display: block;
+  margin: 20px auto; 
 }
 
