@@ -16,11 +16,11 @@ header {
   color: #191970;
   text-align: center;
   padding: 20px;
-  transition: background-color 0.3s ease; /* Add transition for smooth hover effect */
+  transition: background-color 0.3s ease;
 }
 
 header:hover {
-  background-color: #6a6a6a; /* Change background color on hover */
+  background-color: #6a6a6a;
 }
 
 nav ul {
@@ -38,6 +38,11 @@ nav a {
   color: #191970;
   font-weight: bold;
   font-size: 16px;
+  transition: color 0.3s ease; 
+}
+
+nav a:hover {
+  color: #6a6a6a; 
 }
 
 section {
@@ -68,3 +73,4 @@ img {
   display: block;
   margin: 20px auto; 
 }
+
