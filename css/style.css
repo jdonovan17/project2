@@ -26,7 +26,6 @@ nav ul {
 nav li {
   display: inline-block;
   margin: 0 15px;
-  transition: color 0.3s ease;
 }
 
 nav a {
@@ -34,10 +33,6 @@ nav a {
   color: #191970;
   font-weight: bold;
   font-size: 16px; 
-}
-
-nav li:hover {
-  color: #6a6a6a; 
 }
 
 section {
