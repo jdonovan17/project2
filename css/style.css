@@ -16,11 +16,6 @@ header {
   color: #191970;
   text-align: center;
   padding: 20px;
-  transition: background-color 0.3s ease;
-}
-
-header:hover {
-  background-color: #6a6a6a;
 }
 
 nav ul {
