@@ -1,5 +1,18 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
 body {
-  font-family: Lucida Console, monospace;
+  font-family: "Lucida Console", monospace;
   background-color: lightsteelblue;
   color: salmon;
 }
@@ -12,8 +25,8 @@ header {
 }
 
 nav a {
-  text-decoration: none;
   color: salmon;
+  text-decoration: none;
 }
 
 nav ul {
@@ -21,7 +34,7 @@ nav ul {
 }
 
 nav li {
-  display: inline;
+  display: inline-block;
   margin: 0 20px;
 }
 
@@ -32,8 +45,9 @@ section {
   border-radius: 5px;
 }
 
-h1,h2,h3 {
-  float: none;
+h1,
+h2,
+h3 {
   font-size: 26px;
   text-align: center;
   margin-top: 20px;
