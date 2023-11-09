@@ -16,6 +16,11 @@ header {
   color: #191970;
   text-align: center;
   padding: 20px;
+  transition: background-color 0.3s ease; /* Add transition for smooth hover effect */
+}
+
+header:hover {
+  background-color: #6a6a6a; /* Change background color on hover */
 }
 
 nav ul {
@@ -63,4 +68,3 @@ img {
   display: block;
   margin: 20px auto; 
 }
-
